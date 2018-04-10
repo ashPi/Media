@@ -1,0 +1,12 @@
+Film,Blade Runner,7020,18,Ridley Scott
+Series,Breaking Bad,2700,15,5,Gray Matter
+Music,Danger! High Voltage,205,Electric Six
+Series,Deadwood,3500,18,4,Here Was a Man
+Music,Gimme Shelter,265,Rolling Stones
+Music,Hey,245,The Pixies
+Music,If there is something,610,Roxy Music
+Film,The Big Lebowski,7000,5,Coen Brothers
+Series,The Clangers,1200,5,50,Blob
+Series,The Sopranos,3900,18,37,Pine Barrens
+Film,Toy Story,4900,5,John Lasseter
+Series,Sherlock,5280,12,1,A Study In Pink
